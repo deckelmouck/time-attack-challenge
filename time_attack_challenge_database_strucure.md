@@ -61,4 +61,11 @@ created_at
 id  
 usergroupname  
 
-###table 
+###table times
+event.id  
+user.id  
+cars.id  
+time  
+note  
+validated    
+(picture)  

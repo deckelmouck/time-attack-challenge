@@ -62,10 +62,12 @@ id
 usergroupname  
 
 ###table times
+id  
 event.id  
 user.id  
 cars.id  
 time  
-note  
+note 
+created_at
 validated    
 (picture)  

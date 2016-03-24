@@ -35,6 +35,10 @@ description
 ###table events
 id  
 eventname  
+description  
+tracks.id  
+cars.id  
+vehicleclass.id  
 challenge.id  
 start  
 end  
@@ -57,3 +61,4 @@ created_at
 id  
 usergroupname  
 
+###table 
